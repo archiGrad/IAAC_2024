@@ -83,23 +83,32 @@
   - Now you can load them into the project folder in Unreal Engine.
 </details>
 
-### finals
+
+
+
+
+### Finals
+
 <details>
-<summary>pdf's and videos</summary>
-#### pdf's  
-- [Echoes of Tomorrow](echoes_of_tomorrow_presentation.pdf)
-- [Frozen Mirage](FROZEN_MIRAGE_Presentation.pdf)
-- [La Bolla](La_Bolla_presentation.pdf)
-- [Nusantara Forever](Nusantara_Forever_presentation.pdf)
-- [Quantum Uncanny](echoes_of_tomorrow_presentation.pdf)
-#### Videos
-- [Echoes of Tomorrow Video](https://www.youtube.com/watch?v=enLK4b4DlBM)
-- [Frozen Mirage Video](https://www.youtube.com/watch?v=dqVMF4jefiM)
-- [La Bolla Video](https://www.youtube.com/watch?v=mHTtsJVZex8)
-- [Nusantara Forever Video](https://www.youtube.com/watch?v=xClTBWFXPEc)
-- Quantum Uncanny Video link not available
+  <summary>PDFs and Videos</summary>
+
+  #### PDFs
+  - [Echoes of Tomorrow](echoes_of_tomorrow_presentation.pdf)
+  - [Frozen Mirage](FROZEN_MIRAGE_Presentation.pdf)
+  - [La Bolla](La_Bolla_presentation.pdf)
+  - [Nusantara Forever](Nusantara_Forever_presentation.pdf)
+  - [Quantum Uncanny](echoes_of_tomorrow_presentation.pdf)
+
+  #### Videos
+  - [Echoes of Tomorrow Video](https://www.youtube.com/watch?v=enLK4b4DlBM)
+  - [Frozen Mirage Video](https://www.youtube.com/watch?v=dqVMF4jefiM)
+  - [La Bolla Video](https://www.youtube.com/watch?v=mHTtsJVZex8)
+  - [Nusantara Forever Video](https://www.youtube.com/watch?v=xClTBWFXPEc)
+  - Quantum Uncanny Video link not available
 
 </details>
+
+
 
 
 ### media
