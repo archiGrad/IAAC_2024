@@ -1,7 +1,7 @@
 # IAAC_2024
 
 
-
+### introduction
 <details>
 <summary> presentation and references </summary>
 ### Presentation
@@ -92,7 +92,6 @@
 - [La Bolla](La_Bolla_presentation.pdf)
 - [Nusantara Forever](Nusantara_Forever_presentation.pdf)
 - [Quantum Uncanny](echoes_of_tomorrow_presentation.pdf)
-
 #### Videos
 - [Echoes of Tomorrow Video](https://www.youtube.com/watch?v=enLK4b4DlBM)
 - [Frozen Mirage Video](https://www.youtube.com/watch?v=dqVMF4jefiM)
