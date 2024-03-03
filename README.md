@@ -4,25 +4,6 @@ In recent years, the image of the world as a dynamic yet stable and predictable 
 
 The seminar will emphasize narrative and worlding as a means to critically analyze pressing issues of our times, discussing themes through hashtags (see below), constructing potential realities which include buildings and landscapes, as well as finer grain details that reveal behaviors and overall atmospheres through the use of video game engines. Each group will select a specific city and examine its past, present, and future. Starting from a research-driven approach, a specific topic distinct to each city will be established and form the basis for determining what role architecture will play.
 
-## Objectives:
-- Emphasize narrative and worlding techniques.
-- Analyze pressing global issues.
-- Construct potential realities using video game engines.
-- Examine past, present, and future of selected cities.
-- Design architecture, environment, and narrative elements.
-
-## Tasks for Each Team:
-1. Design an architecture or device that responds to the local specifics of the city.
-2. Create an environment for their architecture to exist in.
-3. Develop a coherent positional narrative/interactive environment.
-
-## Goal:
-The goal of the seminar is to test the combination of geo-engineering, policy, design, and speculative fiction into hybrid architectures as part-ecosystem, part-machine, part-space.
-
-### Hashtags:
-- #CollapsingCities
-- #SpeculativeArchitecture
-- #UrbanNarratives
 
 ### introduction
 <details>
