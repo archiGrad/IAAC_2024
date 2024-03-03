@@ -1,7 +1,7 @@
 # IAAC_2024
 
 ### Presentation
-- [Download Presentation PDF](./presentation/2024_IAAC_COLLAPSE!.pdf)
+- [Download Presentation PDF](./presentation/collapse.pdf)
 
 ### References
 - [Reference 1](./references/23_24_MAA01_COLLAPSE!_Seminar_Full_Syllabus.pdf)
@@ -47,7 +47,7 @@
 
 <details>
   <summary>blender Kitbashing and Texture Baking</summary>
-  
+  the video files can be found under "./courses/session_2"  
   The recording can be found: [Session 02 Recording](https://www.youtube.com/watch?v=E3SfIc2mfdo)
 
   ## Kitbashing
