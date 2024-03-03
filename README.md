@@ -1,5 +1,9 @@
 # IAAC_2024
 
+
+
+<details>
+<summary> presentation and references </summary>
 ### Presentation
 - [Download Presentation PDF](./presentation/collapse.pdf)
 
@@ -9,6 +13,9 @@
 - [Reference 3](./references/Benjamin_Labatut_When_we_cease_to_understand_the_world_Prussian_Blue.pdf)
 - [Reference 4](./references/Morton_Timothy-Ecology-After-Capitalism.pdf)
 - [Reference 5](./references/Young+&+Ayata_The+Estranged+Object_X.pdf)
+
+</details>
+
 
 
 ### session_1
@@ -77,19 +84,24 @@
 </details>
 
 ### finals
+<details>
+<summary>pdf's and videos</summary>
 #### pdf's  
 - [Echoes of Tomorrow](echoes_of_tomorrow_presentation.pdf)
-  - [Frozen Mirage](FROZEN_MIRAGE_Presentation.pdf)
-  - [La Bolla](La_Bolla_presentation.pdf)
-  - [Nusantara Forever](Nusantara_Forever_presentation.pdf)
-  - [Quantum Uncanny](echoes_of_tomorrow_presentation.pdf)
+- [Frozen Mirage](FROZEN_MIRAGE_Presentation.pdf)
+- [La Bolla](La_Bolla_presentation.pdf)
+- [Nusantara Forever](Nusantara_Forever_presentation.pdf)
+- [Quantum Uncanny](echoes_of_tomorrow_presentation.pdf)
 
 #### Videos
-  - [Echoes of Tomorrow Video](https://www.youtube.com/watch?v=enLK4b4DlBM)
-  - [Frozen Mirage Video](https://www.youtube.com/watch?v=dqVMF4jefiM)
-  - [La Bolla Video](https://www.youtube.com/watch?v=mHTtsJVZex8)
-  - [Nusantara Forever Video](https://www.youtube.com/watch?v=xClTBWFXPEc)
-  - Quantum Uncanny Video link not available
+- [Echoes of Tomorrow Video](https://www.youtube.com/watch?v=enLK4b4DlBM)
+- [Frozen Mirage Video](https://www.youtube.com/watch?v=dqVMF4jefiM)
+- [La Bolla Video](https://www.youtube.com/watch?v=mHTtsJVZex8)
+- [Nusantara Forever Video](https://www.youtube.com/watch?v=xClTBWFXPEc)
+- Quantum Uncanny Video link not available
+
+</details>
+
 
 ### media
 
