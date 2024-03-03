@@ -15,11 +15,11 @@ The seminar will emphasize narrative and worlding as a means to critically analy
 - [syllabus](./presentation/syllabus.pdf)
 
 ### References
-- [Reference 1](./references/23_24_MAA01_COLLAPSE!_Seminar_Full_Syllabus.pdf)
-- [Reference 2](./references/A_Bestiary_of_the_Anthropocene_EXCERPT.pdf)
-- [Reference 3](./references/Benjamin_Labatut_When_we_cease_to_understand_the_world_Prussian_Blue.pdf)
-- [Reference 4](./references/Morton_Timothy-Ecology-After-Capitalism.pdf)
-- [Reference 5](./references/Young+&+Ayata_The+Estranged+Object_X.pdf)
+- [Collapse Seminar Full Syllabus](./references/23_24%20MAA01%20COLLAPSE!%20Seminar%20Full%20Syllabus.pdf)
+- [A Bestiary of the Anthropocene Excerpt](./references/A_Bestiary_of_the_Anthropocene_EXCERPT.pdf)
+- [When We Cease to Understand the World: Prussian Blue](./references/Benjamin%20Labatut_When%20we%20cease%20to%20understand%20the%20world_Prussian%20Blue.pdf)
+- [Ecology After Capitalism](./references/Morton_Timothy-Ecology-After-Capitalism.pdf)
+- [The Estranged Object X](./references/Young%2B%26%2BAyata_The%20Estranged%20Object_X.pdf)
 
 </details>
 
@@ -94,7 +94,9 @@ The seminar will emphasize narrative and worlding as a means to critically analy
 
 <details>
   <summary>unreal tutorial</summary>
+
   - [Unreal Tutorial: reach_for_the_dead](https://www.youtube.com/watch?v=DR-J4Rljafc)
+
 </details>
 
 
