@@ -93,12 +93,26 @@
 
 ### media
 
-![Echoes of Tomorrow Title](echoes_of_tomorrow_title.png)
-![Frozen Mirage Title](frozen_mirage_title.png)
-![La Bolla Title](la_bolla_title.png)
-![Nusantara Forever Title](nusantara_forever_title.png)
-![Quantum Uncanny Title](quantum_uncanny_title.png)
-
+![Echos_of_Tommorow_1.png](Echos_of_Tommorow_1.png)
+![Echos_of_Tommorow_2.png](Echos_of_Tommorow_2.png)
+![Echos_of_Tommorow_3.png](Echos_of_Tommorow_3.png)
+![Frozen_Mirage_1.png](Frozen_Mirage_1.png)
+![Frozen_Mirage_2.png](Frozen_Mirage_2.png)
+![Frozen_Mirage_3.png](Frozen_Mirage_3.png)
+![Frozen_Mirage_4.png](Frozen_Mirage_4.png)
+![Frozen_Mirage_5.png](Frozen_Mirage_5.png)
+![Frozen_Mirage_6.png](Frozen_Mirage_6.png)
+![La_Bolla_1.png](La_Bolla_1.png)
+![La_Bolla_2.png](La_Bolla_2.png)
+![La_Bolla_3.png](La_Bolla_3.png)
+![La_Bolla_4.png](La_Bolla_4.png)
+![nusantara_1.png](nusantara_1.png)
+![nusantara_2.png](nusantara_2.png)
+![nusantara_3.png](nusantara_3.png)
+![nusantara_4.png](nusantara_4.png)
+![nusantara_5.png](nusantara_5.png)
+![nusantara_6.png](nusantara_6.png)
+![nusantara_7.png](nusantara_7.png)
 
 
 
