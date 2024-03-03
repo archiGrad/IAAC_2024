@@ -1,4 +1,4 @@
-# IAAC 2024 |  COLLAPSE! Seminar - Syllabus
+# IAAC 2024 |  COLLAPSE! 
 
 In recent years, the image of the world as a dynamic yet stable and predictable ecosystem has been disrupted and accelerated due to various breaks in different prediction patterns. Natural catastrophes, resource overmining, deforestation, desertification, food scarcity, mass migration, are all interconnected in one way or another, or at least all part of the same kind of crisis. However, the notion of ‘collapse’, in our case and as will be explored through the seminar, does not necessarily entail a downfall or an apocalyptic end, but rather the understanding that through continued accelerated modes of technologies, mediatization, and interactions across various architectural and urban scales everything is connected, entangled, and ‘collapsing’ into one another.
 
