@@ -5,6 +5,7 @@
 <details>
 <summary> presentation and references </summary>
 ### Presentation
+
 - [Download Presentation PDF](./presentation/collapse.pdf)
 
 ### References
