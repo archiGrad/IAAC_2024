@@ -7,7 +7,8 @@
 
 ### Presentation
 
-- [Download Presentation PDF](./presentation/collapse.pdf)
+- [collaps_presentation](./presentation/collapse.pdf)
+- [syllabus](./presentation/syllabus.pdf)
 
 ### References
 - [Reference 1](./references/23_24_MAA01_COLLAPSE!_Seminar_Full_Syllabus.pdf)
