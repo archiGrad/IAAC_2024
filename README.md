@@ -1,9 +1,4 @@
 # IAAC_2024
-<<<<<<< HEAD
-## files for IAAC Collapse!
-=======
-## Files for IAAC workshops
->>>>>>> 0aa67ee (update finals)
 
 ### Presentation
 - [Download Presentation PDF](./presentation/2024_IAAC_COLLAPSE!.pdf)
@@ -14,7 +9,6 @@
 - [Reference 3](./references/Benjamin_Labatut_When_we_cease_to_understand_the_world_Prussian_Blue.pdf)
 - [Reference 4](./references/Morton_Timothy-Ecology-After-Capitalism.pdf)
 - [Reference 5](./references/Young+&+Ayata_The+Estranged+Object_X.pdf)
-
 
 
 
