@@ -93,31 +93,27 @@
 
 ### media
 
-![Echos_of_Tommorow_1.png](Echos_of_Tommorow_1.png)
-![Echos_of_Tommorow_2.png](Echos_of_Tommorow_2.png)
-![Echos_of_Tommorow_3.png](Echos_of_Tommorow_3.png)
-![Frozen_Mirage_1.png](Frozen_Mirage_1.png)
-![Frozen_Mirage_2.png](Frozen_Mirage_2.png)
-![Frozen_Mirage_3.png](Frozen_Mirage_3.png)
-![Frozen_Mirage_4.png](Frozen_Mirage_4.png)
-![Frozen_Mirage_5.png](Frozen_Mirage_5.png)
-![Frozen_Mirage_6.png](Frozen_Mirage_6.png)
-![La_Bolla_1.png](La_Bolla_1.png)
-![La_Bolla_2.png](La_Bolla_2.png)
-![La_Bolla_3.png](La_Bolla_3.png)
-![La_Bolla_4.png](La_Bolla_4.png)
-![nusantara_1.png](nusantara_1.png)
-![nusantara_2.png](nusantara_2.png)
-![nusantara_3.png](nusantara_3.png)
-![nusantara_4.png](nusantara_4.png)
-![nusantara_5.png](nusantara_5.png)
-![nusantara_6.png](nusantara_6.png)
-![nusantara_7.png](nusantara_7.png)
 
-
-
-
-
+![Echos_of_Tommorow_1.png](./media/Echos_of_Tommorow_1.png)
+![Echos_of_Tommorow_2.png](./media/Echos_of_Tommorow_2.png)
+![Echos_of_Tommorow_3.png](./media/Echos_of_Tommorow_3.png)
+![Frozen_Mirage_1.png](./media/Frozen_Mirage_1.png)
+![Frozen_Mirage_2.png](./media/Frozen_Mirage_2.png)
+![Frozen_Mirage_3.png](./media/Frozen_Mirage_3.png)
+![Frozen_Mirage_4.png](./media/Frozen_Mirage_4.png)
+![Frozen_Mirage_5.png](./media/Frozen_Mirage_5.png)
+![Frozen_Mirage_6.png](./media/Frozen_Mirage_6.png)
+![La_Bolla_1.png](./media/La_Bolla_1.png)
+![La_Bolla_2.png](./media/La_Bolla_2.png)
+![La_Bolla_3.png](./media/La_Bolla_3.png)
+![La_Bolla_4.png](./media/La_Bolla_4.png)
+![nusantara_1.png](./media/nusantara_1.png)
+![nusantara_2.png](./media/nusantara_2.png)
+![nusantara_3.png](./media/nusantara_3.png)
+![nusantara_4.png](./media/nusantara_4.png)
+![nusantara_5.png](./media/nusantara_5.png)
+![nusantara_6.png](./media/nusantara_6.png)
+![nusantara_7.png](./media/nusantara_7.png)
 
 
 
