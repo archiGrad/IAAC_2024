@@ -11,9 +11,9 @@
 - [Reference 5](./references/Young+&+Ayata_The+Estranged+Object_X.pdf)
 
 
-
+### session_1
 <details>
-  <summary>Session 1: Blender Basics</summary>
+  <summary>Blender Basics</summary>
   
   ## Shortcuts
   - **Select:** Right or left click
@@ -43,8 +43,10 @@
   - **EEVEE:** Game engine for fast results.
 </details>
 
+### session_2
+
 <details>
-  <summary>Session 2: Kitbashing and Texture Baking</summary>
+  <summary>blender Kitbashing and Texture Baking</summary>
   
   The recording can be found: [Session 02 Recording](https://www.youtube.com/watch?v=E3SfIc2mfdo)
 
@@ -74,27 +76,42 @@
   - Now you can load them into the project folder in Unreal Engine.
 </details>
 
-<details>
-  <summary>Presentation</summary>
-  
-  ### Presentation Files
-  - [Download Presentation PDF](./presentation/2024_IAAC_COLLAPSE!.pdf)
-</details>
-
-<details>
-  <summary>Finals</summary>
-  
-  ### PDFs
-  - [Echoes of Tomorrow](echoes_of_tomorrow_presentation.pdf)
+### finals
+#### pdf's  
+- [Echoes of Tomorrow](echoes_of_tomorrow_presentation.pdf)
   - [Frozen Mirage](FROZEN_MIRAGE_Presentation.pdf)
   - [La Bolla](La_Bolla_presentation.pdf)
   - [Nusantara Forever](Nusantara_Forever_presentation.pdf)
   - [Quantum Uncanny](echoes_of_tomorrow_presentation.pdf)
 
-  ### Videos
+#### Videos
   - [Echoes of Tomorrow Video](https://www.youtube.com/watch?v=enLK4b4DlBM)
   - [Frozen Mirage Video](https://www.youtube.com/watch?v=dqVMF4jefiM)
   - [La Bolla Video](https://www.youtube.com/watch?v=mHTtsJVZex8)
   - [Nusantara Forever Video](https://www.youtube.com/watch?v=xClTBWFXPEc)
   - Quantum Uncanny Video link not available
-</details>
+
+### media
+
+![Echoes of Tomorrow Title](echoes_of_tomorrow_title.png)
+![Frozen Mirage Title](frozen_mirage_title.png)
+![La Bolla Title](la_bolla_title.png)
+![Nusantara Forever Title](nusantara_forever_title.png)
+![Quantum Uncanny Title](quantum_uncanny_title.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
