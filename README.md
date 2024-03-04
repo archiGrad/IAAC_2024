@@ -114,14 +114,15 @@ The seminar will emphasize narrative and worlding as a means to critically analy
   - [Frozen Mirage](FROZEN_MIRAGE_Presentation.pdf)
   - [La Bolla](La_Bolla_presentation.pdf)
   - [Nusantara Forever](Nusantara_Forever_presentation.pdf)
-  - [Quantum Uncanny](echoes_of_tomorrow_presentation.pdf)
+  - [Quantum Uncanny](quantum_uncanny_presentation.pdf)
 
   #### Videos
   - [Echoes of Tomorrow Video](https://www.youtube.com/watch?v=enLK4b4DlBM)
   - [Frozen Mirage Video](https://www.youtube.com/watch?v=dqVMF4jefiM)
   - [La Bolla Video](https://www.youtube.com/watch?v=mHTtsJVZex8)
   - [Nusantara Forever Video](https://www.youtube.com/watch?v=xClTBWFXPEc)
-  - Quantum Uncanny Video link not available
+  - [Nusantara Forever Video](https://www.youtube.com/watch?v=xClTBWFXPEc)
+  - [Quantum Uncanny Video](https://www.youtube.com/watch?v=eaAnWpHsn1M)
 
 </details>
 
@@ -130,9 +131,12 @@ The seminar will emphasize narrative and worlding as a means to critically analy
 
 ### media
 
-
-
 <div style="display: flex; flex-wrap: wrap;">
+    <img src="./media/uncanny_valley_1.png" alt="uncanny_valley_1.png" width="30%">
+    <img src="./media/uncanny_valley_2.png" alt="uncanny_valley_2.png" width="30%">
+    <img src="./media/uncanny_valley_3.png" alt="uncanny_valley_3.png" width="30%">
+    <img src="./media/uncanny_valley_4.png" alt="uncanny_valley_4.png" width="30%">
+    <img src="./media/uncanny_valley_5.png" alt="uncanny_valley_5.png" width="30%">
     <img src="./media/Echos_of_Tommorow_1.png" alt="Echos_of_Tommorow_1.png" width="30%">
     <img src="./media/Echos_of_Tommorow_2.png" alt="Echos_of_Tommorow_2.png" width="30%">
     <img src="./media/Echos_of_Tommorow_3.png" alt="Echos_of_Tommorow_3.png" width="30%">
