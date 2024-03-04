@@ -15,7 +15,6 @@ The seminar will emphasize narrative and worlding as a means to critically analy
 - [syllabus](./presentation/syllabus.pdf)
 
 ### References
-- [Collapse Seminar Full Syllabus](./references/23_24%20MAA01%20COLLAPSE!%20Seminar%20Full%20Syllabus.pdf)
 - [A Bestiary of the Anthropocene Excerpt](./references/A_Bestiary_of_the_Anthropocene_EXCERPT.pdf)
 - [When We Cease to Understand the World: Prussian Blue](./references/Benjamin%20Labatut_When%20we%20cease%20to%20understand%20the%20world_Prussian%20Blue.pdf)
 - [Ecology After Capitalism](./references/Morton_Timothy-Ecology-After-Capitalism.pdf)
