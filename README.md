@@ -8,7 +8,7 @@ The seminar will emphasize narrative and worlding as a means to critically analy
 
 
 ### introduction
-<details>
+<details open>
 <summary> presentation and references </summary>
 
 ### Presentation
@@ -27,7 +27,7 @@ The seminar will emphasize narrative and worlding as a means to critically analy
 
 
 ### session_1
-<details>
+<details open>
   <summary>Blender Basics</summary>
   
   ## Shortcuts
@@ -60,7 +60,7 @@ The seminar will emphasize narrative and worlding as a means to critically analy
 
 ### session_2
 
-<details>
+<details open>
   <summary>blender Kitbashing and Texture Baking</summary>
   the video files can be found under "./courses/session_2"  
   The recording can be found: [Session 02 Recording](https://www.youtube.com/watch?v=E3SfIc2mfdo)
@@ -93,7 +93,7 @@ The seminar will emphasize narrative and worlding as a means to critically analy
 
 ### session_3
 
-<details>
+<details open>
   <summary>unreal tutorial</summary>
 
   - [Unreal Tutorial: reach_for_the_dead](https://www.youtube.com/watch?v=DR-J4Rljafc)
@@ -108,7 +108,7 @@ The seminar will emphasize narrative and worlding as a means to critically analy
 
 ### Finals
 
-<details>
+<details open>
   <summary>PDFs and Videos</summary>
 
   #### PDFs
