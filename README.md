@@ -1,6 +1,6 @@
 
-![header_image](./media/uncanny_valley_5.png)
-![header_image](./media/uncanny_valley_4.png)
+![header_image](./media/uncanny_valley_6.png)
+![header_image](./media/uncanny_valley_7.png)
 
 
 
