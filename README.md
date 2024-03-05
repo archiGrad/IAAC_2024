@@ -6,6 +6,30 @@ In recent years, the image of the world as a dynamic yet stable and predictable 
 
 The seminar will emphasize narrative and worlding as a means to critically analyze pressing issues of our times, discussing themes through hashtags (see below), constructing potential realities which include buildings and landscapes, as well as finer grain details that reveal behaviors and overall atmospheres through the use of video game engines. Each group will select a specific city and examine its past, present, and future. Starting from a research-driven approach, a specific topic distinct to each city will be established and form the basis for determining what role architecture will play.
 
+# Student Information
+
+| First Name | Nationality |
+|------------|-------------|
+| Aakriti    | Nepal       |
+| Aayushi    | India       |
+| Antony Manoj Xavier | India |
+| Claudia Elzbieta | Poland |
+| Dana       | Lebanon     |
+| Edoardo    | Italy       |
+| Gaurang    | India       |
+| Kailshree Mrunalbhai | India |
+| Muskan     | India       |
+| Naji       | Syria       |
+| Patricia   | Austria     |
+| Raul Alexandre | Brazil |
+| Sayed      | India       |
+| Shuotong   | China       |
+| Sidhardh   | India       |
+| Sofia      | Russia      |
+| Soundouss  | Morocco     |
+| Sunida     | Thailand    |
+| Victoria Montserrat | US  |
+
 
 ### introduction
 <details open>
