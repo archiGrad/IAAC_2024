@@ -132,6 +132,7 @@ The seminar will emphasize narrative and worlding as a means to critically analy
 
 
 ### media
+### Uncanny Valley
 
 <div style="display: flex; flex-wrap: wrap;">
     <img src="./media/uncanny_valley_1.png" alt="uncanny_valley_1.png" width="30%">
@@ -139,19 +140,39 @@ The seminar will emphasize narrative and worlding as a means to critically analy
     <img src="./media/uncanny_valley_3.png" alt="uncanny_valley_3.png" width="30%">
     <img src="./media/uncanny_valley_4.png" alt="uncanny_valley_4.png" width="30%">
     <img src="./media/uncanny_valley_5.png" alt="uncanny_valley_5.png" width="30%">
+</div>
+
+### Echos of Tomorrow
+
+<div style="display: flex; flex-wrap: wrap;">
     <img src="./media/Echos_of_Tommorow_1.png" alt="Echos_of_Tommorow_1.png" width="30%">
     <img src="./media/Echos_of_Tommorow_2.png" alt="Echos_of_Tommorow_2.png" width="30%">
     <img src="./media/Echos_of_Tommorow_3.png" alt="Echos_of_Tommorow_3.png" width="30%">
+</div>
+
+### Frozen Mirage
+
+<div style="display: flex; flex-wrap: wrap;">
     <img src="./media/Frozen_Mirage_1.png" alt="Frozen_Mirage_1.png" width="30%">
     <img src="./media/Frozen_Mirage_2.png" alt="Frozen_Mirage_2.png" width="30%">
     <img src="./media/Frozen_Mirage_3.png" alt="Frozen_Mirage_3.png" width="30%">
     <img src="./media/Frozen_Mirage_4.png" alt="Frozen_Mirage_4.png" width="30%">
     <img src="./media/Frozen_Mirage_5.png" alt="Frozen_Mirage_5.png" width="30%">
     <img src="./media/Frozen_Mirage_6.png" alt="Frozen_Mirage_6.png" width="30%">
+</div>
+
+### La Bolla
+
+<div style="display: flex; flex-wrap: wrap;">
     <img src="./media/La_Bolla_1.png" alt="La_Bolla_1.png" width="30%">
     <img src="./media/La_Bolla_2.png" alt="La_Bolla_2.png" width="30%">
     <img src="./media/La_Bolla_3.png" alt="La_Bolla_3.png" width="30%">
     <img src="./media/La_Bolla_4.png" alt="La_Bolla_4.png" width="30%">
+</div>
+
+### Nusantara
+
+<div style="display: flex; flex-wrap: wrap;">
     <img src="./media/nusantara_1.png" alt="nusantara_1.png" width="30%">
     <img src="./media/nusantara_2.png" alt="nusantara_2.png" width="30%">
     <img src="./media/nusantara_3.png" alt="nusantara_3.png" width="30%">
@@ -160,9 +181,6 @@ The seminar will emphasize narrative and worlding as a means to critically analy
     <img src="./media/nusantara_6.png" alt="nusantara_6.png" width="30%">
     <img src="./media/nusantara_7.png" alt="nusantara_7.png" width="30%">
 </div>
-
-
-
 
 
 
