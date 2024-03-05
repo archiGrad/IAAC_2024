@@ -1,8 +1,4 @@
-
 ![header_image](./media/uncanny_valley_6.png)
-![header_image](./media/uncanny_valley_7.png)
-
-
 
 # IAAC 2024 |  COLLAPSE! 
 
