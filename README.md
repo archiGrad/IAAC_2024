@@ -13,8 +13,8 @@ The seminar will emphasize narrative and worlding as a means to critically analy
 
 ### Presentation
 
-- [collaps_presentation](./presentation/collapse.pdf)
-- [syllabus](./presentation/syllabus.pdf)
+- [collaps_presentation](./collapse_presentation/collapse.pdf)
+- [syllabus](./collapse_presentation/syllabus.pdf)
 
 ### References
 - [A Bestiary of the Anthropocene Excerpt](./references/A_Bestiary_of_the_Anthropocene_EXCERPT.pdf)
