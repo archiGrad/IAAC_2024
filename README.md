@@ -128,13 +128,19 @@ The seminar will emphasize narrative and worlding as a means to critically analy
 
 
 
-
-
 ### Finals
 
 <details open>
   <summary>PDFs and Videos</summary>
 
+  #### IAAC blogpost
+  - [Echoes of Tomorrow]()
+  - [Frozen Mirage](https://blog.iaac.net/frozen-mirage/)
+  - [La Bolla](https://blog.iaac.net/la-bolla/)
+  - [Nusantara Forever](https://blog.iaac.net/nusantara/)
+  - [Quantum Uncanny](https://blog.iaac.net/quantum-uncanny/)
+
+ 
   #### PDFs
   - [Echoes of Tomorrow](echoes_of_tomorrow_presentation.pdf)
   - [Frozen Mirage](FROZEN_MIRAGE_Presentation.pdf)
