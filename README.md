@@ -134,7 +134,7 @@ The seminar will emphasize narrative and worlding as a means to critically analy
   <summary>PDFs and Videos</summary>
 
   #### IAAC blogpost
-  - [Echoes of Tomorrow]()
+  - [Echoes of Tomorrow](https://blog.iaac.net/echoes-of-tomorrow/)
   - [Frozen Mirage](https://blog.iaac.net/frozen-mirage/)
   - [La Bolla](https://blog.iaac.net/la-bolla/)
   - [Nusantara Forever](https://blog.iaac.net/nusantara/)
