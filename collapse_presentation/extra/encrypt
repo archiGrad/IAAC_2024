@@ -1,0 +1,2 @@
+zip -er archive.zip folder_to_zip
+
